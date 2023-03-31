@@ -1,5 +1,5 @@
 # Ecma-Book
-### Jupiter notebook for JavaScript 
+### An interactive browser-based coding environment like a Jupyter Notebook, but for JavaScript.
 #### Tech Stack - <b>React, Redux, TypeScript, ESbuild</b>
 
 ### Steps to run project - 
@@ -7,7 +7,7 @@
 - Then ```npx ecma-book serve```
 
 ### Features and Screenshots - 
-- Create multiple Code blocks and Text blocks.
+- User can create multiple Code blocks and Text blocks.
 - Markdown editor provided in text blocks.
 - Resizable code & text blocks.
 - Move 'up' and 'down' the blocks or delete the block.
