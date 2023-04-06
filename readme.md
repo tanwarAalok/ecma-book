@@ -9,8 +9,8 @@
 ### Features and Screenshots - 
 - User can create multiple Code blocks and Text blocks.
 - Markdown editor provided in text blocks.
-- Resizable code & text blocks.
-- Move 'up' and 'down' the blocks or delete the block.
+- Resizable code & text blocks with move 'up' and 'down' the blocks or delete the block feature.
+- Added Caching using localForage
 - Comulative code execution feature.
 - Leveraged Web Assembly to run a code bundler directly in the browser at lightning-fast speeds
 - Deployed app to the NPM registry. [ecma-book](https://www.npmjs.com/package/ecma-book)
